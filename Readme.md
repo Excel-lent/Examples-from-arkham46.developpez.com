@@ -14,7 +14,7 @@ The [last lesson](https://arkham46.developpez.com/articles/office/vbaopengl/?pag
   - [[Demo without using of FreeGlut (original link, authorization necessary)](https://arkham46.developpez.com/articles/office/vbaopengl/fichiers/VBAOpenGLExcel.zip)] 
  [[GitHub](./1.%20OpenGL/VBAOpenGLExcel.zip)]
 
-Example:
+Example:<br>
 ![OpenGL in Excel, 50 fps.](./Pictures/Animation.gif)
 
 ## GDI+ и игры
