@@ -1,6 +1,6 @@
 # Examples from arkham46.developpez.com: VBA was used to run OpenGL, create games using GDI+ and create interactive infographics!
 
-In this GitHub I want to share examples from web site of [Thierry Gasperment](arkham46.developpez.com). Although all samples and descriptions are open source, you have to register on the web site. Nevertheless, it's worth to register if you want to go deeper into details because the site contains tonns of very helpful info. To translate the site I recommend Chrome. 
+In this GitHub I want to share examples from web site of [Thierry Gasperment](arkham46.developpez.com). Although all samples and descriptions are open source, you have to register on the web site. Nevertheless, it's worth to register if you want to go deeper into details because the site contains tons of very helpful info. To translate the site I recommend Chrome. 
 
 ## OpenGL
 [[Original tutorial (11 lessons) can be read here, no authorization is necessary](https://arkham46.developpez.com/articles/office/vbaopengl/?page=Page_1)].
@@ -17,7 +17,7 @@ The [last lesson](https://arkham46.developpez.com/articles/office/vbaopengl/?pag
 Example:<br>
 ![OpenGL in Excel, 50 fps.](./Pictures/Animation.gif)
 
-## GDI+ и игры
+## GDI+ and games
 Thierry has created two descriptions on how to add GDI+ to VBA: [original link, no authorization necessary](https://arkham46.developpez.com/articles/office/clgdiplus/doc/) and [original link, no authorization necessary](https://arkham46.developpez.com/articles/office/clgdiplus/tuto/tuto-apprendre-gdiplus/).
 
 And now the classic games!
@@ -26,9 +26,9 @@ And now the classic games!
 [[GitHub](2.%20GDP%2B%20%26%20Games/1.%20Coin%20hunt/coincoin-excel.zip)], [[original link, authorization necessary](https://arkham46.developpez.com/articles/office/clgdiplus/fichiers/coincoin-excel.zip)]
 ![Tir au coincoin](./Pictures/French%20Moohrhuhn.png)
 
-### Arcanoid (casse-brique)
+### Arkanoid (casse-brique)
 [[GitHub](2.%20GDP%2B%20%26%20Games/2.%20Arcanoid/casse-brique.zip)], [[original link, authorization necessary](https://arkham46.developpez.com/articles/office/clgdiplus/fichiers/casse-brique.zip)]
-![Arcanoid (casse-brique)](./Pictures/Arcanoid.png)
+![Arkanoid (casse-brique)](./Pictures/Arkanoid.png)
 Use mouse to move. Space to fire.
 
 ### Jeu de tir (shooter a la "Xenon")
@@ -50,7 +50,7 @@ If you want to start the game immediately: [[GitHub](./2.%20GDP%2B%20%26%20Games
 
 ![Pacman](./Pictures/Pacman.png)
 
-Use arrows to move the Packman. 
+Use arrows to move the Pacman. 
 
 ## Infographics
 ### Map of France with departments
@@ -62,7 +62,7 @@ An example can be downloaded from here: [[GitHub](./3.%20Map%20of%20France/Map.x
 
 ### Interactive infographics
 [[GitHub](./3.%20Map%20of%20France/CarteCA.xls)], [[original link, authorization necessary](https://arkham46.developpez.com/articles/office/dessincarte/fichiers/carteca.zip)]
-In an example of interactive infographics the department is painted green if its value in 2009 was above the value of 2008. Othervise it will be painted red. Actually, no refreshment button is necessary.
+In an example of interactive infographics the department is painted green if its value in 2009 was above the value of 2008. Otherwise it will be painted red. Actually, no refreshment button is necessary.
 ![Interactive infographics](./Pictures/Infographics.png)
 
 ### Game of departments
