@@ -27,7 +27,7 @@ And now the classic games!
 ![Tir au coincoin](./Pictures/French%20Moohrhuhn.png)
 
 ### Arkanoid (casse-brique)
-[[GitHub](2.%20GDP%2B%20%26%20Games/2.%20Arcanoid/casse-brique.zip)], [[original link, authorization necessary](https://arkham46.developpez.com/articles/office/clgdiplus/fichiers/casse-brique.zip)]
+[[GitHub](2.%20GDP%2B%20%26%20Games/2.%20Arkanoid/casse-brique.zip)], [[original link, authorization necessary](https://arkham46.developpez.com/articles/office/clgdiplus/fichiers/casse-brique.zip)]
 ![Arkanoid (casse-brique)](./Pictures/Arkanoid.png)
 Use mouse to move. Space to fire.
 
