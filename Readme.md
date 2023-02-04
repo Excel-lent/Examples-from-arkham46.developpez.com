@@ -23,30 +23,30 @@ Thierry has created two descriptions on how to add GDI+ to VBA: [original link, 
 And now the classic games!
 
 ### Clone of Moorhuhn (Tir au coincoin)
-[[GitHub](2.%20GDP%2B%20%26%20Games/1.%20Coin%20hunt/coincoin-excel.zip)], [[original link, authorization necessary](https://arkham46.developpez.com/articles/office/clgdiplus/fichiers/coincoin-excel.zip)]
+[[GitHub](2.%20GDI%2B%20%26%20Games/1.%20Coin%20hunt/coincoin-excel.zip)], [[original link, authorization necessary](https://arkham46.developpez.com/articles/office/clgdiplus/fichiers/coincoin-excel.zip)]
 ![Tir au coincoin](./Pictures/French%20Moohrhuhn.png)
 
 ### Arkanoid (casse-brique)
-[[GitHub](2.%20GDP%2B%20%26%20Games/2.%20Arkanoid/casse-brique.zip)], [[original link, authorization necessary](https://arkham46.developpez.com/articles/office/clgdiplus/fichiers/casse-brique.zip)]
+[[GitHub](2.%20GDI%2B%20%26%20Games/2.%20Arkanoid/casse-brique.zip)], [[original link, authorization necessary](https://arkham46.developpez.com/articles/office/clgdiplus/fichiers/casse-brique.zip)]
 ![Arkanoid (casse-brique)](./Pictures/Arkanoid.png)
 Use mouse to move. Space to fire.
 
 ### Jeu de tir (shooter a la "Xenon")
-[[GitHub](2.%20GDP%2B%20%26%20Games/3.%20Xenon/jeu-tir-excel.zip)], [[original link, authorization necessary](https://arkham46.developpez.com/articles/office/clgdiplus/fichiers/jeu-tir-excel.zip)]
+[[GitHub](2.%20GDI%2B%20%26%20Games/3.%20Xenon/jeu-tir-excel.zip)], [[original link, authorization necessary](https://arkham46.developpez.com/articles/office/clgdiplus/fichiers/jeu-tir-excel.zip)]
 ![Multiuser shooting game](./Pictures/Jeu%20de%20tir.png)
 
 Use arrows to move the space ship. "Ctrl" to fire. The second player must use joystick. 
 The original link contains a small error: In the "RunGame" ("clGame" class) subroutine I changed "config" to "data/config". The GitHub version contains corrected version.
 
 ### Jeu de tir (Space invaders)
-[[GitHub](2.%20GDP%2B%20%26%20Games/4.%20Space%20invaders/tuto-game-2-excel.zip)], [[original link, authorization necessary](https://arkham46.developpez.com/articles/office/clgdiplus/tuto/tutoclgdiplusgame2/fichiers/tuto-game-2-excel.zip)]
+[[GitHub](2.%20GDI%2B%20%26%20Games/4.%20Space%20invaders/tuto-game-2-excel.zip)], [[original link, authorization necessary](https://arkham46.developpez.com/articles/office/clgdiplus/tuto/tutoclgdiplusgame2/fichiers/tuto-game-2-excel.zip)]
 ![Space invaders](./Pictures/Space%20invaders.png)
 Use arrows to move the space ship. Space to fire.
 
 ### Pacman
 A step-by-step description of Pacman VBA code exist in ([original link, no authorization necessary](https://arkham46.developpez.com/articles/office/clgdiplus/tuto/tutoclgdiplusgame3/?page=Page_1)). 
 
-If you want to start the game immediately: [[GitHub](./2.%20GDP%2B%20%26%20Games/5.%20Pacman/pacman-excel.zip)], [[original link, authorization necessary](https://arkham46.developpez.com/articles/office/clgdiplus/tuto/tutoclgdiplusgame3/fichiers/pacman-excel.zip)]
+If you want to start the game immediately: [[GitHub](./2.%20GDI%2B%20%26%20Games/5.%20Pacman/pacman-excel.zip)], [[original link, authorization necessary](https://arkham46.developpez.com/articles/office/clgdiplus/tuto/tutoclgdiplusgame3/fichiers/pacman-excel.zip)]
 
 ![Pacman](./Pictures/Pacman.png)
 
